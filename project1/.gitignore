@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.py[cod]
+/accounts/tests/test_form_signup.py
+/accounts/tests/test_mail_password_reset.py
+/accounts/tests/test_view_password_change.py
+/accounts/tests/test_view_password_reset.py
+/accounts/tests/test_view_signup.py
+/boards/tests/test_templatetags.py
+/boards/tests/test_view_board_topics.py
+/boards/tests/test_view_home.py
+/boards/tests/test_view_new_topic.py
+/boards/tests/test_view_topic_posts.py
